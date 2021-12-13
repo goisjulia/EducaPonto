@@ -9,6 +9,12 @@ Projeto executado durante o evento DoWhile2021 realizado pela Rocketseat 🚀 co
 
 <br />
 
+### 🖌️ Protótipo
+
+[Figma](https://www.figma.com/file/wYPAdHVIPR0CuVYYuFDV2B/EducaPonto)
+
+<br />
+
 ### 🎨 Layout
 <ul>
   <li> <h3> Desktop </h3> </li>
